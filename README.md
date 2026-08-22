@@ -1,6 +1,4 @@
 Prodesk IT Digital agency
-
-# LIVE
 https://prodeskitdigitalagency.netlify.app/
 
 # Features
