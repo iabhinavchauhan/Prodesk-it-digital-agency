@@ -1,12 +1,9 @@
-# Prodesk-it-digital-agency
-
-# 🚀 Project Name
 Prodesk IT Digital agency
 
 # LIVE
 https://prodeskitdigitalagency.netlify.app/
 
-# 📌 Features
+# Features
 Feature 1: Easy access through navbar.
 
 Feature 2: User-friendly UI/UX.
