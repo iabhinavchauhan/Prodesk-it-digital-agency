@@ -2,11 +2,9 @@ Prodesk IT Digital agency
 https://prodeskitdigitalagency.netlify.app/
 
 # Features
-Feature 1: Easy access through navbar.
-
-Feature 2: User-friendly UI/UX.
-
-Feature 3: Fully responsive design.
+1: Easy access through navbar.
+2: User-friendly UI/UX.
+3: Fully responsive design.
 
 # 🛠 Tech Stack
 HTML5, CSS3 and Java Script
