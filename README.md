@@ -25,6 +25,4 @@ Full Screen view -->
 
 <img width="584" height="644" alt="Screenshot 2026-02-06 163239" src="https://github.com/user-attachments/assets/8e2b299e-c44c-4d4a-8c81-940826be798e" />
 
-Phone screen view -->
-
 <img width="534" height="760" alt="Screenshot 2026-02-06 163320" src="https://github.com/user-attachments/assets/1d8939cf-e991-44fe-b921-91a1b4203dd5" />
