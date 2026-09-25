@@ -23,8 +23,6 @@ Full Screen view -->
 
 <img width="1898" height="883" alt="image" src="https://github.com/user-attachments/assets/600feaf1-c1e8-4a7e-bb26-4b88bc62ae63" />
 
-Tablet screen view -->
-
 <img width="584" height="644" alt="Screenshot 2026-02-06 163239" src="https://github.com/user-attachments/assets/8e2b299e-c44c-4d4a-8c81-940826be798e" />
 
 Phone screen view -->
